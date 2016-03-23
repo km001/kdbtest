@@ -1,6 +1,6 @@
 var ksa=require("ksana-simple-api");
 
-ksa.fetch({db:"test",uti:"67733"},function(err,res){
+ksa.fetch({db:"test",q:"不可",uti:"smallBookTest.xml@67734"},function(err,res){
     console.log("structure of return object")
     console.log(Object.keys(res[0]));
     console.log("text: text of the page");

@@ -1,6 +1,5 @@
 <root>
-  <total>43974</total>
-  <columns>DC_TITLE_BOOK,DC_TITLE_CBOOK,DC_DN_SKETCH,DC_DN_CSKETCH,DC_CR_AUTHOR,DC_PUBLISHER_HOUSE,DC_ST_3RD</columns>
+
   <book id="67733">
     <DC_CR_AUTHOR>Sarah Coffin</DC_CR_AUTHOR>
     <DC_DN_CSKETCH>梵克雅宝（Van Cleef &amp; Arpels）是一个具有百年历史的著名珠宝品牌。自从梵克雅宝1906年在法国凡登广场成立以来，其在奢侈珠宝的风格设置和设计趋势上就扮演了领导角色。这本书探索了梵克雅宝对于20世纪珠宝设计所做贡献的历史意义，介绍了逾250件梵克雅宝在世界各博物馆和私人收藏中的最著名的作品，包括珠宝、腕表、时尚配饰和艺术精品，并且伴随2011年二月在纽约史密森学会举办的大型展览出版。本书由6篇浅显易懂的文章和近300张照片组成，还收录了从梵克雅宝档案中获取的从未发表过的设计图纸。</DC_DN_CSKETCH>
@@ -257,7 +256,7 @@
   <book id="67768">
     <DC_CR_AUTHOR>Margit J. Mayer</DC_CR_AUTHOR>
     <DC_DN_CSKETCH>这本TASCHEN新版酒店集锦，收录了全球100家十分特别的酒店和客房，从阿布扎比到越南等国家，以两卷的篇幅介绍从床铺、基本早餐到六星级的服务，把下次选择在哪里休息这个问题变成小事一桩。书中从加尔达湖费尔特里内利别墅这般的梦中城堡，到挪威Juvet酒店别致的玻璃门，从地中海带着怀旧情怀的小旅馆和适中的价格，到犹他州峡谷王国昂贵但物有所值的Amangiri度假区，逐一呈现，即使是细心的网络搜客也会被这本书引诱到自己的沙发上，进行一场纸上旅行。而室内设计爱好者可以把此书当作鼓舞人心的华美沙发、床、灯和浴室的全球性精选集合。</DC_DN_CSKETCH>
-    <DC_DN_SKETCH>Rooms with a view.A collection of 100 heavenly hideaways. 
+    <DC_DN_SKETCH>Rooms with a view.A collection of 100 heavenly hideaways.
 When traveling for business, we often prefer hotel rooms of the same type in London, Paris, or Shanghai. It s just more convenient. A different set of rules applies when they search for a place to celebrate a special family holiday, a weekend with a new lover, or a few days of blissful solitude with some great books. Suddenly a balcony with postcard-worthy views counts more than the number of TV channels, a sumptuous bed with a heavenly </DC_DN_SKETCH>
     <DC_PUBLISHER_HOUSE>Taschen GmbH</DC_PUBLISHER_HOUSE>
     <DC_TITLE_BOOK>100 Getaways Around The World (2 Volume）</DC_TITLE_BOOK>
